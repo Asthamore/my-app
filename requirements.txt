@@ -9,3 +9,13 @@ plotly
 Pillow
 tensorflow-cpu
 streamlit
+seaborn
+pandas
+numpy
+matplotlib
+scikit-learn
+opencv-python
+plotly
+Pillow
+tensorflow-cpu
+streamlit

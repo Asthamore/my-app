@@ -8,3 +8,5 @@ opencv-python
 plotly
 Pillow
 tensorflow-cpu
+streamlit
+
