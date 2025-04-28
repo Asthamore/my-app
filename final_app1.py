@@ -5,7 +5,7 @@
 
 
 # app.py
-
+import os
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -180,10 +180,6 @@ elif page == "📊 Dashboard":
 
 
 
-# In[3]:
-
-
-os.path.abspath('final.py')
 
 
 # In[1]:
